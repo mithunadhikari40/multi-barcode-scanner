@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Multi Scan App</string>
+    <string name="hello_world">Welcome to Android bar Code Scanner By Mithun Adhikari. For more details visit my blog </string>
+    <string name="blog_url">http://blog.whomeninja.in/android-barcode-scanner/</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_scan_now">Scan Now</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name="turn_on_flashlight">Flash On</string>
+    <string name="turn_off_flashlight">Flash Off</string>
+    <string name="continuous_scan">continuous scan</string>
+    <string name="title_activity_any_orientation_capture">AnyOrientationCaptureActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
